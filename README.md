@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align='center'>
 
+  # 👋 Hai! I'm Cin Wie  
 
-**cinwie/cinwie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Cin Wie - Hanyalah Manusia Biasa](https://img.shields.io/static/v1?label=Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://cinwie.github.io/)
+  
+![](https://komarev.com/ghpvc/?username=cinwie&color=green)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+## 🚀 About Me
 
+Welcome to my GitHub about me profile, where code and chaos collide! 💥
+
+- 🔭 I’m currently working on **breaking my own code, then fixing it again** 🔧💣.
+- 🌱 I’m currently learning **the art of not pulling my hair out during merge conflicts** 😜.
+- 👯 I’m looking to collaborate on **anything that involves pizza, coding, and the occasional existential crisis** 🍕🖥️.
+- 🤔 I’m looking for help with **figuring out why my code works 99% of the time and then crashes on the 1%** 😅.
+- 💬 Ask me about **the secret life of my rubber duck debugger** 🦆.
+- 📫 How to reach me: **You can find me on GitHub or, better yet, send a smoke signal.** 🏮
+- 😄 Pronouns: **They/Them, but if you call me “The Code Whisperer,” I won’t argue** 😉.
+- ⚡ Fun fact: **I once tried to write code while balancing on a yoga ball. Spoiler: It didn’t end well.** 🧘‍♂️💻
+
+---
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cinwie&count_private=true&theme=transparent&hide_langs_below=1&layout=compact&hide_border=true">
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinwie&count_private=true&theme=transparent&hide_langs_below=1&layout=compact&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<div align='center'>
+<b>Let's build the future, with one small tap on the keyboard!<b></b> 🚀
+</div>
+
+---
