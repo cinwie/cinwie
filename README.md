@@ -21,6 +21,9 @@ Welcome to my GitHub about me profile, where code and chaos collide! 💥
 - 📫 How to reach me: **You can find me on GitHub or, better yet, send a smoke signal.** 🏮
 - 😄 Pronouns: **They/Them, but if you call me “The Code Whisperer,” I won’t argue** 😉.
 - ⚡ Fun fact: **I once tried to write code while balancing on a yoga ball. Spoiler: It didn’t end well.** 🧘‍♂️💻
+<br>
+
+[![paypal.me/cinwie](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/cinwie) - You can make a one-time donation via PayPal. I'll probably buy a [**TUAK**](https://id.wikipedia.org/wiki/Tuak). 🍼
 
 ---
 
